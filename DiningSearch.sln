@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "DiningSearch", "DiningSearch\DiningSearch.ccproj", "{98120209-4EE0-41F9-89A7-D6B38E51B2BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRole1", "WebRole1\WebRole1.csproj", "{B6F94CD6-9F61-46DE-ACA5-C347CAB000EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerRole1", "WorkerRole1\WorkerRole1.csproj", "{E24D6138-4376-461D-BC09-11F1B0B4F180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98120209-4EE0-41F9-89A7-D6B38E51B2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98120209-4EE0-41F9-89A7-D6B38E51B2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98120209-4EE0-41F9-89A7-D6B38E51B2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98120209-4EE0-41F9-89A7-D6B38E51B2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F94CD6-9F61-46DE-ACA5-C347CAB000EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F94CD6-9F61-46DE-ACA5-C347CAB000EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F94CD6-9F61-46DE-ACA5-C347CAB000EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F94CD6-9F61-46DE-ACA5-C347CAB000EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E24D6138-4376-461D-BC09-11F1B0B4F180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24D6138-4376-461D-BC09-11F1B0B4F180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24D6138-4376-461D-BC09-11F1B0B4F180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24D6138-4376-461D-BC09-11F1B0B4F180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

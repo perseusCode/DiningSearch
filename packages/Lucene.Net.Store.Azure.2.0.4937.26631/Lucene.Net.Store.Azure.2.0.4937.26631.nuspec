@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Lucene.Net.Store.Azure</id>
+    <version>2.0.4937.26631</version>
+    <authors>Tom Laird-McConnell, richorama</authors>
+    <owners>Tom Laird-McConnell, richorama</owners>
+    <projectUrl>https://azuredirectory.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This project allows you to create Lucene Indexes via a Lucene Directory object which uses Windows Azure BlobStorage for persistent storage.</description>
+    <summary>This project allows you to create Lucene Indexes via a Lucene Directory object which uses Windows Azure BlobStorage for persistent storage.</summary>
+    <language>en-US</language>
+    <dependencies>
+      <dependency id="Lucene.Net" version="3.0.3" />
+      <dependency id="Microsoft.Data.Edm" version="5.2.0" />
+      <dependency id="Microsoft.Data.OData" version="5.2.0" />
+      <dependency id="Microsoft.WindowsAzure.ConfigurationManager" version="1.8.0.0" />
+      <dependency id="SharpZipLib" version="0.86.0" />
+      <dependency id="System.Spatial" version="5.2.0" />
+      <dependency id="WindowsAzure.Storage" version="2.0.5.1" />
+    </dependencies>
+    <references>
+      <reference file="Lucene.Net.Store.Azure.dll" />
+    </references>
+  </metadata>
+</package>

@@ -1,0 +1,2 @@
+c:\users\psaraiya\documents\visual studio 2012\Projects\DiningSearch\DiningSearch\bin\Debug\ServiceConfiguration.cscfg
+c:\users\psaraiya\documents\visual studio 2012\Projects\DiningSearch\DiningSearch\bin\Debug\ServiceDefinition.csdef
